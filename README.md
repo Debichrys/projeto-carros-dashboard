@@ -7,3 +7,8 @@ Este é um aplicativo web interativo desenvolvido em Python com a biblioteca Str
 O painel oferece controlos interativos (caixas de seleção) para ativar as seguintes visualizações na mesma página:
 * **Histograma de Quilometragem:** Permite analisar a distribuição dos quilómetros percorridos (`odometer`) pelos veículos anunciados.
 * **Gráfico de Dispersão (Preço vs Quilometragem):** Permite cruzar e correlacionar visualmente a quilometragem com o preço de venda dos automóveis.
+
+## Link do Aplicativo no Render
+Link oficial: https://projeto-carros-dashboard.onrender.com/
+
+
